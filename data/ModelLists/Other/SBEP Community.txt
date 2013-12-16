@@ -23,4 +23,5 @@
 	"21"		"models\sbep_community\xwingtl.mdl"
 	"22"		"models\sbep_community\xwingtr.mdl"
 	"23"		"models\sbep_community\ywing.mdl"
+	"24"		"models\sbep_community\errject_smbwallcons.mdl"
 }

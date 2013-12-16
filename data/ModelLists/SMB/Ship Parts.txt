@@ -35,4 +35,11 @@
 		"33"		"models/smallbridge/ship parts/sblanduramp.mdl"
 		"34"		"models/smallbridge/ship parts/sblandurampdw.mdl"
 		"35"		"models/smallbridge/ship parts/sblandurampdwdh.mdl"
+		"36"		"models/smallbridge/ship parts/sbcockpith2.mdl"
+		"37"		"models/smallbridge/ship parts/sbcockpitw2h2.mdl"
+		"38"		"models/smallbridge/ship parts/sbengine42h.mdl"
+		"39"		"models/smallbridge/ship parts/sbenginebo.mdl"
+		"40"		"models/mandrac/smallbridgeaddon/sbcockpit3addon.mdl"
+		"41"		"models/mandrac/smallbridgeaddon/sbenginecdw.mdl"
+		"42"		"models/mandrac/smallbridgeaddon/sbenginemsw.mdl"
 }
